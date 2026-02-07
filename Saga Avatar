@@ -1,0 +1,38 @@
+{
+"name": "Saga Avatar",
+"image": "https://media.themoviedb.org/t/p/w94_and_h141_face/t5T3LPbLLgP2OP6kloM9p2PXpJL.jpg",
+"url": "",
+"info": "Lista_AF1CIONADOS",
+"author": "bY Virgin Mary",
+"telegram": "Lista_AF1CIONADOS",
+"stations":
+	[
+		{
+		"name": "Avatar",
+		"info": "[2009]",
+		"online": "true",
+        "image": "https://media.themoviedb.org/t/p/w94_and_h141_face/t5T3LPbLLgP2OP6kloM9p2PXpJL.jpg",
+        "url": "https://zpjid.com/d/3yknve0ndovi",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true"
+       	},
+		{
+		"name": "Avatar: El sentido del agua",
+		"info": "[2022]",
+		"online": "true",
+        "image": "https://media.themoviedb.org/t/p/w94_and_h141_face/ckeTumMS4G31UQ9NNkmtW2QhfMF.jpg",
+        "url": "https://zpjid.com/d/vrm4ocvvk0pw",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true"
+       	},
+		{
+		"name": "Avatar: Fuego y ceniza (Próximamente)",
+		"info": "[2025]",
+		"online": "true",
+        "image": "https://media.themoviedb.org/t/p/w94_and_h141_face/4n1U0Mwn7djux6VKNYDRWPgS2x6.jpg",
+        "url": "",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost": "true"
+       	}
+	]
+}
